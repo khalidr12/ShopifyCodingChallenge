@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="game_round_dimensions">
+        <item>10 x 10</item>
+    </string-array>
+    <integer-array name="game_round_dimension_values">
+        <item>10</item>
+    </integer-array>
+
+
+    <string-array name="snap_to_grid_type_prefs">
+        <item>Always Snap</item>
+        <item>Start and End</item>
+    </string-array>
+    <string-array name="snap_to_grid_type_prefs_val">
+        <item>ALWAYS_SNAP</item>
+        <item>START_END</item>
+    </string-array>
+
+</resources>
